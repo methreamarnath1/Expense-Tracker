@@ -1,4 +1,4 @@
-# Cost Capturer
+# Expense Tracker
 
 Cost Capturer is a simple and efficient expense tracking application designed to help users manage their finances. With its intuitive interface, users can easily add, view, and analyze their expenses. The app provides a clear overview of spending habits, making it easier to stay on top of budgets and financial goals.
 
