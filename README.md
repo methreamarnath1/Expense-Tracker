@@ -1,69 +1,20 @@
-# Welcome to your Lovable project
+# Cost Capturer
 
-## Project info
+Cost Capturer is a simple and efficient expense tracking application designed to help users manage their finances. With its intuitive interface, users can easily add, view, and analyze their expenses. The app provides a clear overview of spending habits, making it easier to stay on top of budgets and financial goals.
 
-**URL**: https://lovable.dev/projects/994a006b-893f-4c9f-81d2-7eccc70ae179
+## Features
 
-## How can I edit this code?
+1. **Add Expenses**  
+   Record your daily expenses with details such as amount, category, and date.
 
-There are several ways of editing your application.
+2. **Expense List**  
+   View a detailed list of all recorded expenses for easy tracking.
 
-**Use Lovable**
+3. **Expense Summary**  
+   Get a categorized summary of your expenses to understand where your money is going.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/994a006b-893f-4c9f-81d2-7eccc70ae179) and start prompting.
+4. **Expense Visualization**  
+   Visualize your spending patterns with interactive charts and graphs.
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/994a006b-893f-4c9f-81d2-7eccc70ae179) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+5. **Responsive Design**  
+   The app is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
